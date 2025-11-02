@@ -135,20 +135,6 @@ As the task is **unsupervised**, internal clustering metrics were used:
   **BERT + HDBSCAN** yields the most **semantically meaningful** results — forming dense “topic cores” while filtering general/noisy repositories.  
   *(Kết hợp BERT với HDBSCAN được chứng minh là tối ưu nhất — phát hiện các lõi chủ đề rõ ràng, đồng thời xử lý nhiễu hiệu quả.)*
 
----
-
-## 🧩 Conceptual Analogy *(Phép Ẩn dụ Minh họa)*
-
-> Imagine classifying GitHub projects as if organizing a vast technical library.  
-> *(Hãy tưởng tượng việc phân loại dự án GitHub giống như sắp xếp một thư viện sách kỹ thuật khổng lồ.)*
-
-- **TF-IDF:**  
-  Like sorting books by the **keywords on their covers** — simple, structured, but shallow.  
-  *(Phân loại dựa trên từ khóa xuất hiện thường xuyên — gọn gàng nhưng bỏ qua ý nghĩa sâu.)*
-
-- **BERT + HDBSCAN:**  
-  Like grouping books by their **content summaries and semantic meaning** — discovering deep conceptual similarities.  
-  *(Phân loại dựa trên nội dung và ngữ cảnh — nhận ra mối liên hệ ngữ nghĩa giữa các chủ đề.)*
 
 ---
 
@@ -159,17 +145,7 @@ Capturing **contextual and semantic relationships** is crucial for effectively c
 
 *(Phương pháp BERT + HDBSCAN mang lại các cụm ngữ nghĩa sâu sắc và có ý nghĩa nhất. Việc nắm bắt mối quan hệ ngữ cảnh và ngữ nghĩa là yếu tố then chốt trong phân loại dự án phần mềm phức tạp.)*
 
----
 
-## 🧮 Technologies Used *(Công nghệ Sử dụng)*
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange)
-![UMAP](https://img.shields.io/badge/UMAP-Dimensionality_Reduction-green)
-![HDBSCAN](https://img.shields.io/badge/HDBSCAN-Clustering-red)
-![BERT](https://img.shields.io/badge/BERT-Embeddings-purple)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-lightgrey)
 
 ---
 
@@ -180,7 +156,7 @@ Capturing **contextual and semantic relationships** is crucial for effectively c
 - Huỳnh Thái Linh  
 - Trương Minh Khoa  
 
-**Giảng viên hướng dẫn:** *ThS. Nguyễn Quang Phúc*  
+**Giảng viên hướng dẫn:** *ThS. lê Nhật Tùng*  
 **Trường:** Trường Đại học Công nghệ TP. Hồ Chí Minh — *Khoa Khoa học Dữ liệu (HUTECH)*  
 **Năm thực hiện:** 2025  
 
