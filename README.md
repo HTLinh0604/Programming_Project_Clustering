@@ -1,5 +1,5 @@
-# 🧠 Project 2A: Programming Project Clustering Based on README.md Text Analysis  
-*(Dự án 2A: Phân cụm Dự án Lập trình Dựa trên Phân tích Văn bản README.md)*
+# 🧠 Programming Project Clustering Based on README.md Text Analysis  
+*(Phân cụm Dự án Lập trình Dựa trên Phân tích Văn bản README.md)*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow)
@@ -13,8 +13,8 @@
 
 ## 📘 Overview *(Tổng quan và Mục tiêu)*
 
-**Project 2A** is a research project focusing on the **analysis and clustering of GitHub repositories** — an increasingly important problem due to the exponential growth of open-source ecosystems.  
-*(Project 2A là một nghiên cứu tập trung vào việc phân tích và phân loại các dự án GitHub — điều này rất cần thiết do sự phát triển nhanh chóng của các hệ sinh thái mã nguồn mở.)*
+Project is a research project focusing on the **analysis and clustering of GitHub repositories** — an increasingly important problem due to the exponential growth of open-source ecosystems.  
+*(Dự án là một nghiên cứu tập trung vào việc phân tích và phân loại các dự án GitHub — điều này rất cần thiết do sự phát triển nhanh chóng của các hệ sinh thái mã nguồn mở.)*
 
 ### 🧩 Importance of README.md *(Tầm quan trọng của README.md)*
 The **README.md** file plays a central role in open-source projects, providing essential information such as purpose, functionality, setup instructions, and usage.  
