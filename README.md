@@ -1,5 +1,5 @@
-# 🧠 Programming Project Clustering Based on README.md Text Analysis  
-*(Phân cụm Dự án Lập trình Dựa trên Phân tích Văn bản README.md)*
+# 🧠 Project 2A: Programming Project Clustering Based on README.md Text Analysis  
+*(Dự án 2A: Phân cụm Dự án Lập trình Dựa trên Phân tích Văn bản README.md)*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow)
