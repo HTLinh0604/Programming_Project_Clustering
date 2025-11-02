@@ -157,10 +157,10 @@ Capturing **contextual and semantic relationships** is crucial for effectively c
 - Trương Minh Khoa  
 
 **Giảng viên hướng dẫn:** *ThS. lê Nhật Tùng*  
-**Trường:** Trường Đại học Công nghệ TP. Hồ Chí Minh — *Khoa Khoa học Dữ liệu (HUTECH)*  
+**Trường:** Trường Đại học Công nghệ TP. Hồ Chí Minh — *Khoa Khoa học Dữ liệu*  
 **Năm thực hiện:** 2025  
 
 ---
 
-> © 2025 — Project 2A: *Programming Project Clustering Based on README.md Text Analysis*  
+> © 2025 — Project: *Programming Project Clustering Based on README.md Text Analysis*  
 > *Developed for academic research and educational purposes.*
