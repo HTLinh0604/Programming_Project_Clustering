@@ -23,7 +23,7 @@ Hence, it serves as a **rich textual source** for semantic understanding and cla
 
 ### 🎯 Research Objective *(Mục tiêu Nghiên cứu)*
 To propose a **comprehensive framework** for clustering programming projects based on the **semantic information embedded in README.md** files — enabling topic discovery, trend analysis, and intelligent organization of software ecosystems.  
-
+*(Đề xuất một khuôn khổ toàn diện cho việc phân cụm các dự án lập trình dựa trên thông tin ngữ nghĩa được trích xuất từ các tệp README.md — nhằm khai phá chủ đề, phân tích xu hướng và tổ chức thông minh hệ sinh thái phần mềm.)*
 **Keywords:** GitHub, README.md, Text Clustering, TF-IDF, BERT Embeddings, K-Means, DBSCAN, HDBSCAN, UMAP, Unsupervised Learning.
 
 ---
