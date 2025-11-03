@@ -111,7 +111,7 @@ As the task is **unsupervised**, internal clustering metrics were used:
 |---------------------|----------------|-----------------|------------------|
 | TF-IDF + SVD | K-Means (k=79) | 0.0625 | Moderately compact clusters; weak separation based on surface keywords. |
 | TF-IDF + SVD | Spectral Clustering | — | Captures more interpretable topic structures (e.g., server/API/Docker group 48.25%). |
-| TF-IDF + SVD | DBSCAN | — | Formed one dense cluster → poor differentiation. |
+| TF-IDF + SVD | DBSCAN | —- | Formed one dense cluster → poor differentiation. |
 | BERT Embeddings | K-Means (k=40) | 0.0269 | Overlapping semantic clusters; BERT space too continuous. |
 | BERT Embeddings | HDBSCAN | **0.3057 (non-noise points)** | 17 clusters detected; 97.4% noise; semantically coherent “core topics.” |
 
