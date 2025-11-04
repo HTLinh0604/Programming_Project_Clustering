@@ -11,7 +11,7 @@
 
 ---
 
-## 📘 Overview *(Tổng quan và Mục tiêu)*
+## 📘 Overview *(Tổng quan và Mục tiêu)
 
 Project is a research project focusing on the **analysis and clustering of GitHub repositories** — an increasingly important problem due to the exponential growth of open-source ecosystems.  
 *(Dự án là một nghiên cứu tập trung vào việc phân tích và phân loại các dự án GitHub — điều này rất cần thiết do sự phát triển nhanh chóng của các hệ sinh thái mã nguồn mở.)*
