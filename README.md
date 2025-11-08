@@ -2,7 +2,6 @@
 *(Phân cụm Dự án Lập trình Dựa trên Phân tích Văn bản README.md)*
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-yellow)
 ![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange)
 ![UMAP](https://img.shields.io/badge/UMAP-Dimensionality_Reduction-green)
 ![HDBSCAN](https://img.shields.io/badge/HDBSCAN-Clustering-red)
