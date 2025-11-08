@@ -1,12 +1,12 @@
 # 🧠 Programming Project Clustering Based on README.md Text Analysis  
 *(Phân cụm Dự án Lập trình Dựa trên Phân tích Văn bản README.md)*
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-orange)
-![UMAP](https://img.shields.io/badge/UMAP-Dimensionality_Reduction-green)
-![HDBSCAN](https://img.shields.io/badge/HDBSCAN-Clustering-red)
-![BERT](https://img.shields.io/badge/BERT-Embeddings-purple)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-lightgrey)
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python)
+![ScikitLearn](https://img.shields.io/badge/Scikit--Learn-Machine_Learning-F7931E?style=flat&logo=scikit-learn)
+![NLP](https://img.shields.io/badge/NLP-Preprocessing-6AC045?style=flat&logo=nltk)
+![BERT](https://img.shields.io/badge/BERT-Embeddings-7933FF?style=flat&logo=transformers)
+![UMAP](https://img.shields.io/badge/UMAP-Dimensionality_Reduction-00BFFF?style=flat)
+![HDBSCAN](https://img.shields.io/badge/HDBSCAN-Clustering-FF4500?style=flat)
 
 ---
 
