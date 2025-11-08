@@ -149,16 +149,16 @@ Capturing **contextual and semantic relationships** is crucial for effectively c
 
 ---
 
-## 🏫 Authors *(Nhóm Thực hiện)*
+## 👥 Authors *(Nhóm Thực hiện)*
 
-**Sinh viên thực hiện:**  
+**Students:** *(Sinh viên thực hiện)*  
 - Hồ Gia Thành  
 - Huỳnh Thái Linh  
 - Trương Minh Khoa  
 
-**Giảng viên hướng dẫn:** *ThS. lê Nhật Tùng*  
-**Trường:** Trường Đại học Công nghệ TP. Hồ Chí Minh — *Khoa Khoa học Dữ liệu*  
-**Năm thực hiện:** 2025  
+**Supervisor:** *(Giảng viên hướng dẫn)* *ThS. Lê Nhật Tùng*  
+**University:** *(Trường)* Trường Đại học Công nghệ TP. Hồ Chí Minh — *Khoa học Dữ liệu*  
+**Year:** *(Năm thực hiện)* 2025
 
 ---
 
