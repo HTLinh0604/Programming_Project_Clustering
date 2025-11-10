@@ -28,7 +28,7 @@ To propose a **comprehensive framework** for clustering programming projects bas
 
 ---
 
-## ⚙️ Methodology *(Phương pháp luận)*
+##  Methodology *(Phương pháp luận)*
 
 The study follows a **five-stage clustering pipeline**:  
 *(Nghiên cứu áp dụng quy trình phân cụm gồm năm giai đoạn chính)*  
