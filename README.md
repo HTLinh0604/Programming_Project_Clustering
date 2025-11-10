@@ -1,4 +1,4 @@
-# 🧠 Programming Project Clustering Based on README.md Text Analysis  
+#  Programming Project Clustering Based on README.md Text Analysis  
 *(Phân cụm Dự án Lập trình Dựa trên Phân tích Văn bản README.md)*
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python)
@@ -10,17 +10,17 @@
 
 ---
 
-## 📘 Overview *(Tổng quan và Mục tiêu)*
+##  Overview *(Tổng quan và Mục tiêu)*
 
 Project is a research project focusing on the **analysis and clustering of GitHub repositories** — an increasingly important problem due to the exponential growth of open-source ecosystems.  
 *(Dự án là một nghiên cứu tập trung vào việc phân tích và phân loại các dự án GitHub — điều này rất cần thiết do sự phát triển nhanh chóng của các hệ sinh thái mã nguồn mở.)*
 
-### 🧩 Importance of README.md *(Tầm quan trọng của README.md)*
+###  Importance of README.md *(Tầm quan trọng của README.md)*
 The **README.md** file plays a central role in open-source projects, providing essential information such as purpose, functionality, setup instructions, and usage.  
 Hence, it serves as a **rich textual source** for semantic understanding and classification of software projects.  
 *(README.md là tệp cốt lõi chứa mô tả mục đích, chức năng, hướng dẫn cài đặt và sử dụng, nên được coi là nguồn dữ liệu văn bản phong phú và đáng tin cậy để hiểu và mô tả dự án phần mềm.)*
 
-### 🎯 Research Objective *(Mục tiêu Nghiên cứu)*
+###  Research Objective *(Mục tiêu Nghiên cứu)*
 To propose a **comprehensive framework** for clustering programming projects based on the **semantic information embedded in README.md** files — enabling topic discovery, trend analysis, and intelligent organization of software ecosystems.  
 *(Đề xuất một khuôn khổ toàn diện cho việc phân cụm các dự án lập trình dựa trên thông tin ngữ nghĩa được trích xuất từ các tệp README.md — nhằm khai phá chủ đề, phân tích xu hướng và tổ chức thông minh hệ sinh thái phần mềm.)*
 
@@ -40,7 +40,7 @@ The study follows a **five-stage clustering pipeline**:
 
 ---
 
-### 1️⃣ Data Collection *(Thu thập Dữ liệu)*
+### 1️ Data Collection *(Thu thập Dữ liệu)*
 
 | **Hạng mục** | **Mô tả chi tiết** |
 |---------------|--------------------|
@@ -53,7 +53,7 @@ The study follows a **five-stage clustering pipeline**:
 
 ---
 
-### 2️⃣ Text Representation *(Biểu diễn Văn bản)*
+### 2️ Text Representation *(Biểu diễn Văn bản)*
 
 Two approaches were compared to capture **lexical and semantic information**:
 
@@ -66,7 +66,7 @@ Two approaches were compared to capture **lexical and semantic information**:
 
 ---
 
-### 3️⃣ Dimensionality Reduction *(Giảm Chiều Dữ liệu)*
+### 3️ Dimensionality Reduction *(Giảm Chiều Dữ liệu)*
 
 - **Truncated SVD (Singular Value Decomposition):**  
   Applied to TF-IDF features → reduced to 100 dimensions (≈18.9% variance retained).  
@@ -77,7 +77,7 @@ Two approaches were compared to capture **lexical and semantic information**:
 
 ---
 
-### 4️⃣ Clustering Algorithms *(Thuật toán Phân cụm)*
+### 4️ Clustering Algorithms *(Thuật toán Phân cụm)*
 
 The study evaluates multiple algorithms for unsupervised learning:
 
@@ -90,7 +90,7 @@ The study evaluates multiple algorithms for unsupervised learning:
 
 ---
 
-### 5️⃣ Evaluation Metrics *(Chỉ số Đánh giá)*
+### 5️ Evaluation Metrics *(Chỉ số Đánh giá)*
 
 As the task is **unsupervised**, internal clustering metrics were used:
 
@@ -102,9 +102,9 @@ As the task is **unsupervised**, internal clustering metrics were used:
 
 ---
 
-## 📊 Experimental Results *(Kết quả Thực nghiệm)*
+##  Experimental Results *(Kết quả Thực nghiệm)*
 
-### 🔹 Performance Comparison
+###  Performance Comparison
 
 | **Representation** | **Algorithm** | **Silhouette** | **Observations** |
 |---------------------|----------------|-----------------|------------------|
@@ -116,7 +116,7 @@ As the task is **unsupervised**, internal clustering metrics were used:
 
 ---
 
-### 📈 Key Insights *(Phân tích Chính)*
+###  Key Insights *(Phân tích Chính)*
 
 - **Trade-off between Quantitative and Semantic Performance:**  
   TF-IDF models perform better numerically but rely on surface-level tokens.  
@@ -137,7 +137,7 @@ As the task is **unsupervised**, internal clustering metrics were used:
 
 ---
 
-## 🧠 Conclusion *(Kết luận Tổng thể)*
+##  Conclusion *(Kết luận Tổng thể)*
 
 This research demonstrates that **semantic embeddings (BERT)** combined with **density-based clustering (HDBSCAN)** produce **highly meaningful and conceptually coherent clusters** of programming projects.  
 Capturing **contextual and semantic relationships** is crucial for effectively categorizing complex software ecosystems.
@@ -148,7 +148,7 @@ Capturing **contextual and semantic relationships** is crucial for effectively c
 
 ---
 
-## 👥 Authors *(Nhóm Thực hiện)*
+##  Authors *(Nhóm Thực hiện)*
 
 **Students:** *(Sinh viên thực hiện)*  
 - Hồ Gia Thành  
